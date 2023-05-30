@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wMissao">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Servidor/plugins/wMissao.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

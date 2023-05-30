@@ -1,0 +1,6 @@
+name: wMissao
+version: 1.0
+author: Bruno Wagner
+main: com.contattos.wmissao.Main
+commands:
+  missoes:
